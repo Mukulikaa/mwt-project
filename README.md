@@ -1,5 +1,5 @@
 # mwt-project
-A simple Android Application written in Kotlin with Android Studio IDE.
+A simple Android Application written in Java with Android Studio IDE.
 Information about movies fetched through API requests to IMDb.
 Storing data on Firebase Cloud storage so that it can be accessed from all devices.
 
